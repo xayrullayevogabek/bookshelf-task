@@ -41,7 +41,6 @@ const AdminBookCard = ({
         }
         if (handleReload) {
           handleReload();
-          console.log("hello");
         }
         break;
       case "edit":
