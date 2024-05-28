@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://bookshelf-fullstack.vercel.app/](https://bookshelf-fullstack.vercel.app/)
+[https://bookshelf-fullstack-app.vercel.app/](https://bookshelf-fullstack-app.vercel.app/)
 
 <h2>🧐 Features</h2>
 
@@ -17,9 +17,9 @@ Here're some of the project's best features:
 - Deleting a Book
 - Editing a Book Status
 - Searching Books
+- Adding Books to shelf
 - Authentication
 - Redux Toolkit state management
-- Detail-oriented effects and animations using TailwindCSS
 - Environment Typescript NextJS Setup
 
 <h2>🛠️ Installation Steps:</h2>
@@ -45,3 +45,4 @@ Technologies used in the project:
 - Redux Toolkit
 - TailwindCSS
 - TypeScript
+- Shadcn Ui
