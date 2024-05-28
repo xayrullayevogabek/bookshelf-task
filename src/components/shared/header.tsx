@@ -59,7 +59,7 @@ const Header = () => {
             </svg>
           </button>
         </form>
-        <div className=" fixed z-50 bottom-0 left-0 w-full p-2 justify-evenly bg-[#16A34A] md:relative md:p-0 flex md:flex-1 md:items-center md:justify-end gap-5">
+        <div className=" fixed z-50 sm:z-0 bottom-0 left-0 w-full p-2 justify-evenly bg-[#16A34A] md:relative md:p-0 flex md:flex-1 md:items-center md:justify-end gap-5">
           {user && (
             <Link
               className=" text-white flex flex-col text-sm items-center gap-1"
