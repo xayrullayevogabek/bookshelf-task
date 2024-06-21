@@ -8,7 +8,7 @@
 
 [https://bookshelf-fullstack-app.vercel.app/](https://bookshelf-fullstack-app.vercel.app/)
 
-<h2>🧐 Features</h2>
+<h2>✨ Features</h2>
 
 Here're some of the project's best features:
 
